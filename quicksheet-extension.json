@@ -1,0 +1,8 @@
+{
+  "name": "quicksheet-guid",
+  "version": "1.0.0",
+  "prefix": "guid",
+  "description": "Generate GUIDs/UUIDs on demand — multiple formats, batch generation",
+  "entry": "dotnet run --project QuickSheetGuid.csproj",
+  "minProtocolVersion": 1
+}
