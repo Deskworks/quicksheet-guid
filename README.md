@@ -23,7 +23,7 @@ Maximum 20 GUIDs per invocation.
 Clone this repo into your QuickSheet extensions directory:
 
 ```bash
-git clone https://github.com/cemheren/quicksheet-guid ~/.quicksheet/extensions/quicksheet-guid
+git clone https://github.com/Deskworks/quicksheet-guid ~/.quicksheet/extensions/quicksheet-guid
 ```
 
 ## Requirements
